@@ -1,0 +1,66 @@
+title,genre,language,age_group,gender
+# English movies
+The Lion King,animation,english,0-9,A
+Frozen,animation,english,0-9,A
+Moana,animation,english,0-9,A
+Coco,animation,english,0-9,A
+Inside Out,animation,english,10-19,A
+Harry Potter and the Sorcerer's Stone,fantasy,english,10-19,A
+Spider-Man: Into the Spider-Verse,animation,english,10-19,A
+Inception,sci-fi,english,20-29,M
+The Matrix,sci-fi,english,20-29,M
+Interstellar,sci-fi,english,20-29,A
+The Notebook,romance,english,20-29,F
+Titanic,romance,english,20-29,F
+La La Land,romance,english,20-29,A
+Parasite,thriller,english,30-39,A
+The Godfather,crime,english,40-49,M
+Pulp Fiction,crime,english,30-39,A
+Fight Club,drama,english,20-29,M
+Forrest Gump,drama,english,20-29,A
+The Shawshank Redemption,drama,english,30-39,A
+The Dark Knight,action,english,20-29,M
+
+# Tamil movies
+Vikram,action,tamil,30-39,M
+Master,action,tamil,30-39,M
+Kaala,action,tamil,40-49,M
+Baahubali: The Beginning,action,tamil,20-29,A
+Baahubali 2: The Conclusion,action,tamil,20-29,A
+Mersal,drama,tamil,30-39,A
+Enthiran,sci-fi,tamil,20-29,A
+Sarkar,action,tamil,30-39,M
+Visaranai,thriller,tamil,30-39,A
+Super Deluxe,drama,tamil,20-29,A
+Pariyerum Perumal,drama,tamil,20-29,A
+Asuran,drama,tamil,30-39,M
+Vada Chennai,crime,tamil,30-39,A
+Peranbu,drama,tamil,40-49,A
+Iru Mugan,action,tamil,20-29,M
+Anniyan,thriller,tamil,30-39,M
+Thani Oruvan,thriller,tamil,30-39,A
+Ghajini,thriller,tamil,20-29,M
+Petta,action,tamil,30-39,M
+Aruvi,drama,tamil,20-29,A
+
+# Hindi movies
+3 Idiots,comedy,hindi,20-29,A
+Dangal,drama,hindi,30-39,A
+PK,comedy,hindi,20-29,A
+Lagaan,drama,hindi,30-39,A
+Sholay,action,hindi,40-49,M
+Andaz Apna Apna,comedy,hindi,20-29,A
+Drishyam,thriller,hindi,30-39,A
+Zindagi Na Milegi Dobara,drama,hindi,20-29,A
+Bhaag Milkha Bhaag,drama,hindi,30-39,A
+Talaash,thriller,hindi,30-39,A
+Queen,drama,hindi,20-29,F
+Barfi!,romance,hindi,20-29,A
+Padmaavat,drama,hindi,40-49,A
+Gully Boy,drama,hindi,20-29,A
+Taare Zameen Par,drama,hindi,10-19,A
+Kahaani,thriller,hindi,30-39,A
+Sultan,drama,hindi,30-39,M
+Badhaai Ho,comedy,hindi,30-39,A
+Chhichhore,comedy,hindi,20-29,A
+Bajrangi Bhaijaan,drama,hindi,30-39,A
